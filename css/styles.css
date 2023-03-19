@@ -634,9 +634,7 @@ footer{
     margin-top: 12px;
 }
 label>.link {
-    display: inline-block;
     color: var(--accent-color);
-    margin-left: 0.06em;
 }
 .modal-icon{
     position: absolute;
